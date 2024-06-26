@@ -4,7 +4,7 @@
     <groupId>com.luvsic</groupId>
     <artifactId>p1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>p1 Maven Webapp</name>
+    <name>p1</name>
     <url>http://maven.apache.org</url>
 
     <!--1. 打为war-->
