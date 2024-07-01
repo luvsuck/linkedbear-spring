@@ -7,6 +7,7 @@
     <modules>
         <module>p1</module>
         <module>p2</module>
+        <module>p3</module>
     </modules>
     <groupId>com.luvsic</groupId>
     <artifactId>linkedbear-spring</artifactId>
